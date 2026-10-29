@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "loot_gamble:block/common_loot_roll_block"
+  }
+}

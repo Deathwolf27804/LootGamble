@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "loot_gamble:block/unique_loot_roll_block"
+    }
+  }
+}

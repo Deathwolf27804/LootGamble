@@ -1,0 +1,9 @@
+{
+  "values": [
+    "loot_gamble:common_axe_item",
+    "loot_gamble:uncommon_axe_item",
+    "loot_gamble:rare_axe_item",
+    "loot_gamble:epic_axe_item",
+    "loot_gamble:legendary_axe_item"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "values": [
+    "loot_gamble:common_spear_item",
+    "loot_gamble:uncommon_spear_item",
+    "loot_gamble:rare_spear_item",
+    "loot_gamble:epic_spear_item",
+    "loot_gamble:legendary_spear_item",
+    "loot_gamble:dashing_spear"
+  ]
+}

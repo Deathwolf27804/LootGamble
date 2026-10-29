@@ -1,0 +1,10 @@
+{
+  "values": [
+    "loot_gamble:common_loot_roll_block",
+    "loot_gamble:uncommon_loot_roll_block",
+    "loot_gamble:rare_loot_roll_block",
+    "loot_gamble:epic_loot_roll_block",
+    "loot_gamble:legendary_loot_roll_block",
+    "loot_gamble:unique_loot_roll_block"
+  ]
+}

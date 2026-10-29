@@ -1,0 +1,7 @@
+{
+  "values": [
+    "#loot_gamble:passive_mobs",
+    "loot_gamble:summoned_iron_golem",
+    "loot_gamble:summoned_snow_golem"
+  ]
+}

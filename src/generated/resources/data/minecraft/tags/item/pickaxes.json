@@ -1,0 +1,9 @@
+{
+  "values": [
+    "loot_gamble:common_pickaxe_item",
+    "loot_gamble:uncommon_pickaxe_item",
+    "loot_gamble:rare_pickaxe_item",
+    "loot_gamble:epic_pickaxe_item",
+    "loot_gamble:legendary_pickaxe_item"
+  ]
+}

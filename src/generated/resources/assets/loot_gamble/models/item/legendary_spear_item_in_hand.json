@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spear_in_hand",
+  "textures": {
+    "layer0": "loot_gamble:item/legendary_spear_item_in_hand"
+  }
+}

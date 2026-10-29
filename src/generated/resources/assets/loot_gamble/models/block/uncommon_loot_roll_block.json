@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "loot_gamble:block/uncommon_loot_roll_block"
+  }
+}

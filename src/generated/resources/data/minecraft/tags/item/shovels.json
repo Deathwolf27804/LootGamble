@@ -1,0 +1,9 @@
+{
+  "values": [
+    "loot_gamble:common_shovel_item",
+    "loot_gamble:uncommon_shovel_item",
+    "loot_gamble:rare_shovel_item",
+    "loot_gamble:epic_shovel_item",
+    "loot_gamble:legendary_shovel_item"
+  ]
+}

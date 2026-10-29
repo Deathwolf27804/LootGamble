@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "P": "#minecraft:planks",
+    "c": "minecraft:cobblestone",
+    "r": "#loot_gamble:random_core_like"
+  },
+  "pattern": [
+    "PrP",
+    "PcP",
+    "PPP"
+  ],
+  "result": {
+    "id": "loot_gamble:uncommon_loot_roll_block"
+  }
+}

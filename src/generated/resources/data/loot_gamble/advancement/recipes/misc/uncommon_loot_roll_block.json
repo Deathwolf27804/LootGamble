@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_random_core_like": {
+      "conditions": {
+        "items": [
+          {
+            "items": "#loot_gamble:random_core_like"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "loot_gamble:uncommon_loot_roll_block"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_random_core_like"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "loot_gamble:uncommon_loot_roll_block"
+    ]
+  }
+}

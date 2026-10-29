@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "loot_gamble:block/attuner_entity_block"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "loot_gamble:block/enclave_entity_block"
+    }
+  }
+}

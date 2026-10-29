@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "B": "#c:cobblestones",
+    "D": "#c:gems/diamond",
+    "R": "#loot_gamble:random_core_like",
+    "S": "minecraft:smithing_table"
+  },
+  "pattern": [
+    "RDR",
+    "BSB",
+    "RBR"
+  ],
+  "result": {
+    "id": "loot_gamble:attuner_entity_block"
+  }
+}

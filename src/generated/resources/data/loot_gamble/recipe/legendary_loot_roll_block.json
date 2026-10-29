@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "P": "#minecraft:planks",
+    "c": "minecraft:netherite_scrap",
+    "r": "#loot_gamble:random_core_like"
+  },
+  "pattern": [
+    "PrP",
+    "PcP",
+    "PPP"
+  ],
+  "result": {
+    "id": "loot_gamble:legendary_loot_roll_block"
+  }
+}

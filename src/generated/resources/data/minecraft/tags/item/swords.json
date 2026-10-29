@@ -1,0 +1,10 @@
+{
+  "values": [
+    "loot_gamble:common_sword_item",
+    "loot_gamble:uncommon_sword_item",
+    "loot_gamble:rare_sword_item",
+    "loot_gamble:epic_sword_item",
+    "loot_gamble:legendary_sword_item",
+    "loot_gamble:aerial_sword"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "values": [
+    "loot_gamble:common_hoe_item",
+    "loot_gamble:uncommon_hoe_item",
+    "loot_gamble:rare_hoe_item",
+    "loot_gamble:epic_hoe_item",
+    "loot_gamble:legendary_hoe_item"
+  ]
+}
